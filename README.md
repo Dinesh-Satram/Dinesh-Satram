@@ -13,12 +13,7 @@ I'm actively looking for **outsourcing projects** and freelance opportunities in
 - **Databases & Cloud**: MySQL, Snowflake, AWS  
 - **Business Intelligence**: Forecasting, KPI analysis, Process Optimization  
 
-## 📄 Portfolio & Contact  
-- **📂 Portfolio:** [Your Portfolio Link]  
-- **📑 Resume:** [Your Resume Link]  
-- **🔗 LinkedIn:** [Your LinkedIn Profile Link]  
-
-📍 Based in **[Your Location]** | Open to **relocation & remote work**  
+📍 Based in **Atlanta** | Open to **relocation & remote work**  
 
 ---
 
